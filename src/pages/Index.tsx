@@ -1,4 +1,5 @@
 
+import React from "react";
 import { Heart, Star, Flower } from "lucide-react";
 import { motion } from "framer-motion";
 
